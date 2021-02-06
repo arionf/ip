@@ -1,28 +1,24 @@
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="" group-title="",AVA Family
+#EXTINF:-1 ,AVA Family
 http://51.210.199.5/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="" group-title="",AVA Series
+#EXTINF:-1 ,AVA Series
 http://51.210.199.4/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Caltex TV" tvg-language="Persian" tvg-logo="https://www.livefarsi.com/uploads/tv_image/caltex-music-tv.png" group-title="Music",Caltex TV
+#EXTINF:-1 ,Caltex TV
 https://vid1.caltexmusic.com/hls/caltextv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canada Star TV" tvg-language="English" tvg-logo="http://canadastartv.com/resimler/sistem/logo.png" group-title="",Canada Star TV
-https://live.livestreamtv.ca/canadastartv/smil:canadastartv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cine Film" tvg-language="Persian" tvg-logo="https://i.imgur.com/wWKyJDs.png" group-title="Entertainment",Cine Film
+#EXTINF:-1 ,Cine Film
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cineseries" tvg-language="Persian" tvg-logo="https://i.imgur.com/Iz8re8Z.png" group-title="Entertainment",Cineseries
+#EXTINF:-1 t,Cineseries
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EBC1 TV" tvg-language="Persian" tvg-logo="https://www.livefarsi.com/uploads/tv_image/ebc1-tv.jpg" group-title="Music",EBC1 TV (720p)
+#EXTINF:-1 ,EBC1 TV (720p)
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Iran International" tvg-language="Persian" tvg-logo="https://i.imgur.com/oeiaea6.png" group-title="News",Iran International (1080p)
+#EXTINF:-1 ,Iran International (1080p)
 https://live.playstop.me/LS-63503-4/index.m3u8
 
 #EXTINF:-1 ,IRIB TV1
 https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IRIB TV1 (B)
-https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,IRIB TV2
 https://bozztv.com/36bay2/gin/giniko_irib2_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IRIB TV2 (B)
-https://bozztv.com/36bay2/gin/giniko_irib2_900kb_36bay2/tracks-v1a1/mono.m3u8
+http://185.71.64.167:80/307245103371/307245103371/84332
 #EXTINF:-1 ,IRIB TV3 (Farsiland)
 https://livetv.farsiland.com/tv3-1k/tv3-1k.m3u8
 #EXTINF:-1 ,IRIB TV3 (PersianLeague)
@@ -31,61 +27,57 @@ https://st.persianleague.com/live/tv3-hd/chunks.m3u8
 https://sdm.telewebion.com/live/tv3/tv3-1080p/index.m3u8
 #EXTINF:-1 ,IRIB TV4
 https://bozztv.com/36bay2/gin/giniko_irib4_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IRIB TV4 (B)
-https://bozztv.com/36bay2/gin/giniko_irib4_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,IRIB TV5
 https://bozztv.com/36bay2/gin/giniko_irib5_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IRIB TV5 (B)
-https://bozztv.com/36bay2/gin/giniko_irib5_900kb_36bay2/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ITN TV" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Iran_TV_Network.png" group-title="Entertainment",ITN TV (480p)
+#EXTINF:-1 ,ITN TV (480p)
 https://2nbyjjx7y53k-hls-live.5centscdn.com/031820/ba22796be201dee03c46a9b0ada66145.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Navahang TV" tvg-language="Persian" tvg-logo="http://www.navahang.com/apple-touch-icon.png" group-title="Music",Navahang TV
+#EXTINF:-1 ,Navahang TV
 http://163.172.134.85/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Parnian TV" tvg-language="Persian" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ca-parnian-tv-9509.jpg" group-title="",Parnian TV
+#EXTINF:-1 ,Parnian TV
 https://live2.parnian.tv/hls/live/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PBC Tapesh TV" tvg-language="Persian" tvg-logo="https://i.imgur.com/J0Oj78g.jpg" group-title="",PBC Tapesh TV (720p)
+#EXTINF:-1 ,PBC Tapesh TV (720p)
 http://iptv.tapesh.tv/tapesh/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PBC Tapesh TV" tvg-language="Persian" tvg-logo="http://www.tapesh.tv/wp-content/uploads/2017/08/tapesh-new-logo-300x300.png" group-title="Entertainment",PBC Tapesh TV
+#EXTINF:-1 " ,PBC Tapesh TV
 http://iptv.tapesh.tv/tapesh/playlist1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio Farda" tvg-language="Persian" tvg-logo="https://i.imgur.com/NqTGH0Q.png" group-title="",Radio Farda (576p)
+#EXTINF:-1 ,TAPESH TV
+http://rv.therevenge.co:80/565656/565656/84306
+
+#EXTINF:-1 ,Radio Farda (576p)
 https://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio Javan TV" tvg-language="Persian" tvg-logo="https://i.imgur.com/4XTyMST.jpg" group-title="Music",Radio Javan TV (1080p)
+#EXTINF:-1 ,Radio Javan TV (1080p)
 https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rangarang TV" tvg-language="Persian" tvg-logo="https://i.imgur.com/s5yF9aU.jpg" group-title="",Rangarang TV (720p)
+
+#EXTINF:-1 ,Rangarang TV (720p)
 https://iptv.rangarang.us/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BBC Persian" tvg-language="Persian" tvg-logo="" group-title="",BBC Persian
+#EXTINF:-1 ,BBC Persian
 https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_persian_tv/bbc_persian_tv.isml/index.m3u8
+#EXTINF:-1 ,VOA Persian
+https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+#EXTINF:-1 ,NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC 2" tvg-language="Persian" tvg-logo="" group-title="",MBC 2 
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,MBC 2 
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
+#EXTINF:-1 ,MBC Action 
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+#EXTINF:-1 ,MBC MAX 
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
+#EXTINF:-1 ,Manoto
+https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC Action" tvg-language="Persian" tvg-logo="" group-title="",MBC Action 
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="MBC MAX" tvg-language="Persian" tvg-logo="" group-title="",MBC MAX 
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="Manoto" tvg-language="Persian" tvg-logo="" group-title="",Manoto
-https://d2rwmwucnr0d10.cloudfront.net/live.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="" tvg-name="Radio Javan TV" tvg-language="Persian" tvg-logo="" group-title="",Radio Javan TV
-https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="TAPESH TV" tvg-language="Persian" tvg-logo="" group-title="",TAPESH TV
-http://rv.therevenge.co:80/565656/565656/84306?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="VOA Persian" tvg-language="Persian" tvg-logo="" group-title="",VOA Persian
-https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="" tvg-name="NHK World Japan" tvg-language="Persian" tvg-logo="" group-title="",NHK World Japan
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-language="EN" tvg-logo="" group-title="",HBO
-http://raostvip.com:8080/semi16/1609.sem/108303?checkedby:iptvcat.com
+http://raostvip.com:8080/semi16/1609.sem/108303
 #EXTINF:-1 tvg-id="" tvg-name="HBO Comedy" tvg-language="EN" tvg-logo="" group-title="",HBO Comedy
-http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/35798?checkedby:iptvcat.com
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/35798
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-language="EN" tvg-logo="" group-title="",DISCOVERY SCIENCE
-http://185.71.64.167:80/307245103371/307245103371/78685?checkedby:iptvcat.com
+http://185.71.64.167:80/307245103371/307245103371/78685
 
 #EXTINF:-1 tvg-id="" tvg-name="Popular Science" tvg-language="EN" tvg-logo="" group-title="",Popular Science
-http://a.jsrdn.com/broadcast/447912f76b/+0000/low/c.m3u8?checkedby:iptvcat.com
+http://a.jsrdn.com/broadcast/447912f76b/+0000/low/c.m3u8
